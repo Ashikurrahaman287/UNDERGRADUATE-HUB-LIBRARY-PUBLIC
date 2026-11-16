@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/accrue-fines",
+      "schedule": "0 18 * * *"
+    }
+  ]
+}
